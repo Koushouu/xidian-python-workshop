@@ -1,5 +1,5 @@
-# xidian-python-workshop
-All material for the python workshop at St Edmund College, Cambridge, for XiDian University summer programme
+# stedmund-summer-python-workshop
+All material for the python workshop at St Edmund College, Cambridge, for a summer programme 3rd - 16th Aug
 
 ## Contact
 Cheng-Yu Huang "Kou" (cyh37@cam.ac.uk)
@@ -26,18 +26,18 @@ Please prepare the following before the workshop:
     - if you are using a **Mac OS machine**, look for **terminal (終端機)**. For detailed instruction, check [here](https://support.apple.com/zh-tw/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 
 
-2. With the Anaconda prompt, create a virtual environment with the name “xidian-venv”
+2. With the Anaconda prompt, create a virtual environment with the name “sted-workshop-venv”
 
     ```powershell
-    conda create --name xidian-venv python=3.11
+    conda create --name sted-workshop-venv python=3.11
     ```
 
 3. Then activate the environment
 
     ```powershell
-    conda activate xidian-venv
+    conda activate sted-workshop-venv
     ```
-    You should notice that the start of the command line is now `(xidian-venv)`
+    You should notice that the start of the command line is now `(sted-workshop-venv)`
     
 4. Install all the basic python packages with
 
