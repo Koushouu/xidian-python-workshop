@@ -1,1 +1,4 @@
-https://colab.research.google.com/github/Koushouu/xidian-python-workshop/blob/main/getting-started-with-python/Practice.ipynb
+
+
+Practice notebook [here]()
+Excercise Notebook [here](https://colab.research.google.com/github/Koushouu/xidian-python-workshop/blob/main/getting-started-with-python/Practice.ipynb)
