@@ -45,6 +45,20 @@ Please prepare the following before the workshop:
     conda install numpy matplotlib scipy scikit-image ipywidgets jupyter jupyterlab pandas scikit-learn seaborn
     ```
 
+5. Extra packages to install:
+    Napari:
+    ```
+    python -m pip install "napari[all]"
+    ```
+    Dimension Reduction
+    ```
+    conda install scikit-learn seaborn umap-learn 
+    ```
+    and
+    ```
+    conda install -c conda-forge hdbscan
+    ```
+
 P.S. other useful conda command:
 `conda env list` to list all available environment
 
