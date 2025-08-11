@@ -64,3 +64,13 @@ P.S. other useful conda command:
 
 ## Other resources
 - Other conda command: https://docs.conda.io/projects/conda/en/4.6.0/user-guide/tasks/manage-environments.html
+
+## Project teams:
+
+* **Team Eagle**: https://github.com/WHYdr/Tride_Rise__Team_Eagle
+* **Team Money**: https://github.com/Koushouu/Money
+* **Team PixelProphets**: https://github.com/luisrarg/PixelProphets
+* **The-most-handsome-men-in-the-universe**: https://github.com/David-Liuqid/The-most-handsome-men-in-the-universe
+* **AirCtrl**: https://github.com/HUITianYi/AirCtrl
+* **AnZone**: https://github.com/AnnnnHere/AnZone
+* **GuanYun**: https://github.com/GuanYun-pixel/GuanYun
