@@ -31,5 +31,20 @@ At the beginning of each day each team will have 1-3 mins to give an update on y
 
 ### Final presentation
 
-Each team will have `5 + (num_people-1)*2.5` mins for your presentation. In the end we will vote for your favorite project.
+* Presention order: (Ordered by a [random number generator](https://www.google.com/search?q=random+number+generator&oq=random+number+generator&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ1NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+  1. PixelProphets
+  2. AnZone
+  3. Money
+  4. AirCtrl
+  5. The-most-handsome-men-in-the-universe
+  6. Eagle
+  7. GuanYun
+
+Rules:
+* Each team will have `5 + (num_people-1)*2.5` mins for your presentation. In the end, we will vote for your favourite project.
+* If you are in a multi-person team, everyone needs to speak for at least 2 minutes, or you might be disqualified from the project competition
+* You can present your project in any way - you can do a traditional PowerPoint slides presentation, or a Demo of the gameplay, whiteboard drawing or a mix of the three - you can decide
+* You can present any aspect of your project, for example, what was the goal of your project? Did you achieve it? What was the biggest challenge of your project? If you have more time, what would you do? If you are going to do this project again, would you approach this project differently? What did you learn through the project, both from a technical and a personal point of view? If you worked with a team, what was the challenege to work on a team project? How did you resolve all the challenges? 
+* After the presentation, we will vote for the best project, based on the clarity of the presentation and creativity of the project.
+* The winner will be announced either right after the presentation or at the final farewell dinner (we will decide).
 
