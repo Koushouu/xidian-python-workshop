@@ -31,7 +31,7 @@ At the beginning of each day each team will have 1-3 mins to give an update on y
 
 ### Final presentation
 
-* Presention order: (Ordered by a [random number generator](https://www.google.com/search?q=random+number+generator&oq=random+number+generator&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ1NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+* Presention order: (Ordered by a [random number generator](https://www.google.com/search?q=random+number+generator&oq=random+number+generator&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ1NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8))
   1. PixelProphets
   2. AnZone
   3. Money
@@ -47,4 +47,8 @@ Rules:
 * You can present any aspect of your project, for example, what was the goal of your project? Did you achieve it? What was the biggest challenge of your project? If you have more time, what would you do? If you are going to do this project again, would you approach this project differently? What did you learn through the project, both from a technical and a personal point of view? If you worked with a team, what was the challenege to work on a team project? How did you resolve all the challenges? 
 * After the presentation, we will vote for the best project, based on the clarity of the presentation and creativity of the project.
 * The winner will be announced either right after the presentation or at the final farewell dinner (we will decide).
+
+**Project voting**: https://forms.gle/cXNwbmWRSJ9gp3kKA
+
+
 
